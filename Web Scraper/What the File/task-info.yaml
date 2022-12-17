@@ -72,6 +72,9 @@ files:
     if __name__ == '__main__':
         WebScraperTest().run_tests()
   learner_created: false
-feedback_link: https://hyperskill.org/projects/145/stages/783/implement#comment
-status: Unchecked
-record: -1
+feedback_link: https://hyperskill.org/learn/step/11757#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 17 Dec 2022 00:57:58 UTC"
+record: 3

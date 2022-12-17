@@ -130,6 +130,18 @@ files:
     if __name__ == '__main__':
         WebScraperTest().run_tests()
   learner_created: false
-feedback_link: https://hyperskill.org/projects/145/stages/784/implement#comment
-status: Unchecked
-record: -1
+- name: Is_lightning_striking_the_Arctic_more_than_ever_before_.txt
+  visible: true
+  learner_created: true
+- name: Moderna_COVID_vaccine_becomes_second_to_get_US_authorization.txt
+  visible: true
+  learner_created: true
+- name: Biden_s_pick_to_head_US_environment_agency_heartens_scientists.txt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/11758#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 17 Dec 2022 17:06:29 UTC"
+record: 4

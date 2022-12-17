@@ -1,0 +1,12 @@
+<h2>Print one character</h2>
+<html><body><p>Below you see a piece of code:</p>
+<pre><code class="language-python">array = bytes([31, 32, 126, 127])
+print(array)</code></pre>
+<p>Its output is as follows: <code class="language-python">b'\x1f ~\x7f'</code>.</p>
+<p>Basing on this info, what would be the output of the following expression?</p>
+<pre><code class="language-python">print(bytes([126]))</code></pre>
+<p>Put your answer in the text box.</p>
+<p><button class="btn-sm btn-outline-secondary" onclick="getElementById('hint-452').style.display='inline'">
+        Hint
+      </button>
+</p><div id="hint-452" style="display:none;"> Remember that numbers from 32 to 126 (inclusively) are usually printed as single characters, while other numbers are represented as a backslash with <code class="language-python">x</code> and two more characters. And don't forget to include the <code class="language-python">b</code> and the quotes in your answer! </div></body></html>

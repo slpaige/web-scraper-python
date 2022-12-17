@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://stepik.org/media/attachments/lesson/455321/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: "Fri, 16 Dec 2022 19:04:30 UTC"
+update_date: "Sat, 17 Dec 2022 16:37:08 UTC"
 stages:
 - id: 781
   step: 11755
@@ -13,13 +13,13 @@ stages:
   is_completed: true
 - id: 783
   step: 11757
-  is_completed: false
+  is_completed: true
 - id: 784
   step: 11758
-  is_completed: false
+  is_completed: true
 - id: 785
   step: 11759
-  is_completed: false
+  is_completed: true
 topics:
   0:
   - title: Introduction to Operating systems

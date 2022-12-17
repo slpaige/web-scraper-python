@@ -62,7 +62,7 @@ files:
     if __name__ == '__main__':
         WebScraperTest().run_tests()
   learner_created: false
-feedback_link: https://hyperskill.org/projects/145/stages/781/implement#comment
+feedback_link: https://hyperskill.org/learn/step/11755#comment
 status: Solved
 feedback:
   message: Congratulations!
